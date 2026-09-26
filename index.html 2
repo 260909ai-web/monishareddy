@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>my first class</title>
+</head>
+<body>
+        <h1>welcome to html</h1>
+        <h2>name of the user</h2>
+        <p>this is my first html program . </p>
+        <p>this is my second html program . </p>
+ </body>
+</html> 
